@@ -4,6 +4,9 @@
 }
 .cont{
     display: flex;
+    background-color: grey;
+    height: 400px;
+    position: relative; 
 }
 .box1{
     width: 300px;
